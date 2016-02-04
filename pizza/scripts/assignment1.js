@@ -33,8 +33,8 @@ function address()
      address=address+","+document.getElementById('city').value;
      address=address+","+document.getElementById('postalcode').value;
     var contact=document.getElementById('contact').value;
-    document.getElementById('forname').value=name;
-     document.getElementById('forcontact').value=contact;
-     document.getElementById('foraddress').value=address;
+    document.getElementById('forname').innerHTML=name;
+     document.getElementById('forcontact').innerHTML=contact;
+     document.getElementById('foraddress').innerHTML=address;
     
 }
