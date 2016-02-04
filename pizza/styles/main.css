@@ -1,0 +1,85 @@
+#container
+{
+   opacity: 0.92;
+    background-color:#FAFAFA;
+    margin: 1%  ; 
+    margin-left: auto;
+	padding: 1% ;
+    width: 10%  ;
+    align-self: baseline;
+	border: 5%pxpx solid silver;
+	box-shadow: 2px 1px 2px 2px;
+}
+#container3
+{
+    opacity: 0.92;
+    background-color:#FAFAFA;
+    margin: 10%  ; 
+    margin-left: auto;
+	padding: 3% ;
+    padding-left: 7%;
+    padding-right: 7%;
+    width: 75%  ;
+	border: 5%pxpx solid silver;
+	box-shadow: 2px 1px 2px 2px;
+}
+#container4
+{
+    opacity: 0.92;
+    background-color:#FAFAFA;
+    margin: 10%  ; 
+    margin-left: auto;
+	padding: 3% ;
+    padding-left: 7%;
+    padding-right: 7%;
+    width: 75%  ;
+	border: 5%pxpx solid silver;
+	box-shadow: 2px 1px 2px 2px;
+}
+
+#container2
+{
+    opacity: 0.92;
+    background-color:#FAFAFA;
+    margin: 10%  ; 
+    margin-left: auto;
+	padding: 3% ;
+    padding-left:7%;
+    padding-right: 7%;
+    width: 75%  ;
+	border: 5%pxpx solid silver;
+	box-shadow: 2px 1px 2px 2px;
+}
+
+body  
+{
+    background-image: url("../images/dominos-pizza.jpg");
+    background-color: #cccccc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.button
+{
+    text-align:center;
+    padding-bottom: 5px;
+}
+
+#container1
+{
+    opacity: 0.92;
+    background-color:#FAFAFA;
+    margin: 10%  ; 
+    margin-left: auto;
+	padding: 5% ;
+    padding-left: 7%;
+    padding-right: 7%;
+    width: 75%  ;
+	border: 5%pxpx solid silver;
+	box-shadow: 2px 1px 2px 2px;
+}
+
+#sub_headings
+{
+    color:chocolate;
+}
